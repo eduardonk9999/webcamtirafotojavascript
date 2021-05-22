@@ -1,0 +1,14 @@
+a {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 150px;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: cornflowerblue;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
